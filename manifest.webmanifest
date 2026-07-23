@@ -1,0 +1,9 @@
+{
+  "name": "ArcoTransforma v56 · Bloqueos Conquista Integral",
+  "short_name": "ArcoTransforma",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#061326",
+  "theme_color": "#061326",
+  "description": "Juego educativo de tiro con arco para cálculo diferencial con interfaz visual de preguntas estilo Deriva Invaders, gráficas, MathJax, SCORM y reporte HTML."
+}
